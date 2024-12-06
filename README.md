@@ -1,6 +1,5 @@
 # Customer Transaction Dashboard
-![Model]([Paste_link_here](https://github.com/Ahsan-Bilal-1899/customer-transaction-dashbaord/blob/7bcb6b1e9f211a3554acaef34f5529fa33cbf958/Dashboard%20Capture.png
-))
+![Model](https://github.com/Ahsan-Bilal-1899/customer-transaction-dashbaord/blob/7bcb6b1e9f211a3554acaef34f5529fa33cbf958/Dashboard%20Capture.png)
 
 ## About the Dataset
 
